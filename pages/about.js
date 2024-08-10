@@ -65,7 +65,7 @@ function about() {
           </div>
           <ul className="title-manu pull-right">
             <li>
-              <a href="/">home</a>
+              <a style={{ textDecoration: 'none' }} href="/">home</a>
             </li>
             <li>
               <i className="fa fa-angle-double-right" aria-hidden="true"></i>
