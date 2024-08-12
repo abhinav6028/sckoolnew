@@ -96,23 +96,90 @@ function about() {
             lineHeight: "40px",
           }}
         >
-          <div className=" row px-3 align-items-center">
-            <ul className="col-md-7">
-              <li>
-                Assabah Association Trust is a well organized and established
-                non-profit organization, under Muslim management. The trust is
-                managing number of educational institutions. M.V.M.R.H.S.S
-                founded in 1986 under Assabah Association Trust. School provides
-                quality education for all community with affordable cost. Now
-                the school has grown to a full fledged Higher Secondary School
-                starting from K.G. to Higher Secondary level with reorganization
-                of government of Kerala.
-              </li>
-            </ul>
-            <div className="col-md-5 imgContainer">
-              <img src="/images/school_images/3.jpg" alt="titlePageImg" />
+
+
+
+
+
+
+          
+
+          <section className="welcome-section mb-5">
+            <div className="container">
+              <div className="row align-items-center">
+                <div className="col-xl-7 col-lg-12 col-sm-12">
+                  <div className="wellcome-left-colmun">
+                    
+                    <div className="content-text">
+                      <p className="forjust">
+                        Assabah Association Trust is a well organized and established
+                        non-profit organization, under Muslim management. The trust is
+                        managing number of educational institutions. M.V.M.R.H.S.S
+                        founded in 1986 under Assabah Association Trust. School provides
+                        quality education for all community with affordable cost. Now
+                        the school has grown to a full fledged Higher Secondary School
+                        starting from K.G. to Higher Secondary level with reorganization
+                        of government of Kerala.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="col-xl-5 col-lg-12 col-xs-12">
+                  <div className="image-box">
+                    <figure>
+                      <img
+                        src="/images/school_images/3.jpg"
+                        alt="M.V.M Higher Secondary School"
+                      />
+                    </figure>
+                  </div>
+                </div>
+              </div>
             </div>
-          </div>
+          </section>
+
+
+
+
+          <section className="welcome-section mb-5">
+            <div className="container">
+              <div className="row align-items-center">
+                <div className="col-xl-7 col-lg-12 col-sm-12">
+                  <div className="wellcome-left-colmun">
+                    <div className="sec-title pb-one">
+                      <h4>M.V.M Higher Secondary School</h4>
+                    </div>
+                    <div className="content-text">
+                      <p className="forjust">
+                        Assabah Association Trust is a well organized and established
+                        non-profit organization, under Muslim management. The trust is
+                        managing number of educational institutions. M.V.M.R.H.S.S
+                        founded in 1986 under Assabah Association Trust. School provides
+                        quality education for all community with affordable cost. Now
+                        the school has grown to a full fledged Higher Secondary School
+                        starting from K.G. to Higher Secondary level with reorganization
+                        of government of Kerala.F
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="col-xl-5 col-lg-12 col-xs-12">
+                  <div className="image-box">
+                    <figure>
+                      <img
+                        src="/images/school_images/home-banner6.jpg"
+                        alt="M.V.M Higher Secondary School"
+                      />
+                    </figure>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+
+
+
 
           <div
             style={{

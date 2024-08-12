@@ -407,13 +407,6 @@
 // // </div>
 
 
-
-
-
-
-
-
-
 import axios from "axios";
 import Head from "next/head";
 import { useState } from "react";
@@ -828,4 +821,4 @@ export default admission;
 //   <a href="https://forms.gle/WUcLa5varuDuC7hB6">
 //     Online Registeration
 //   </a>
-// </div>
+// </div>ss
