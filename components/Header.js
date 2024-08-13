@@ -281,7 +281,7 @@ function Header() {
                     </div>
                     <div className="text-holder">
                       <strong>ADDRESS:</strong>
-                      <p>Valayamkulam, P.O Kokoor Malappuram, Kerala</p>
+                      <p>Valayamkulam, P.O Kokoor, Malappuram, Kerala</p>
                     </div>
                   </li>
                   <li>
@@ -290,7 +290,7 @@ function Header() {
                     </div>
                     <div className="text-holder">
                       <strong>PHONE:</strong>
-                      <p>+919567871424,+917593078368</p>
+                      <p>+919567871424, +917593078368</p>
                     </div>
                   </li>
                 </ul>

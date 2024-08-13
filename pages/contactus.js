@@ -141,7 +141,7 @@ function contactus() {
                           Valayamkulam,
                           <span style={{ display: "block" }}>
                             {" "}
-                            P.O Kokoor Malappuram ,
+                            P.O Kokoor, Malappuram,
                           </span>
                           Kerala
                         </p>
