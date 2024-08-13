@@ -717,7 +717,7 @@ function admission() {
                                   name="message"
                                   className="form-control textarea required"
                                   required
-                                  placeholder="Adress"
+                                  placeholder="Address"
                                   onChange={(e) =>
                                     setAdress(e.target.value)
                                   }
@@ -787,20 +787,15 @@ function admission() {
             </h3>
             <ol className="mt-3">
               <li>
-                Who want hostel admission they want to submit an application in
-                prescribed form in our school office
+                Who want hostel admission they want to submit an application in prescribed form in our school office
               </li>
               <li>
-                If any pupil violate the rules and regulations of school,that
-                pupil both admission may be cancelled at any time
+                If any pupil violate the rules and regulations of school,that pupil both admission may be cancelled at any time
               </li>
               <li>Hostel admission available from 5th standard onwards</li>
               <li>
-                Separate hostel for both boys and girls are functioning in the
-                campus. Special coaching programme are arranged for hostel
-                student for physical, cultural and moral development of the
-                pupil. The hostel mess is non vegetarian, in no case outside
-                food is allowed.
+                Separate hostel for both boys and girls are functioning in the campus. Special coaching programme are arranged for hostel student for physical, cultural and moral development of the
+                pupil. The hostel mess is non vegetarian, in no case outside food is allowed.
               </li>
               <li>
                 The parents are allowed to visit their ward in the hostel only
